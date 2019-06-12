@@ -1,0 +1,18 @@
+----------------------------------------------------------------
+Mon Jun 10 16:27:24 BST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016b-4200-4b23-00000083aaf8 
+on database directory memory:C:\Users\595M\Documents\workspace-sts-3.9.8.RELEASE\quiz\testdb with class loader sun.misc.Launcher$AppClassLoader@3bed4432 
+Loaded from file:/C:/Users/595M/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=IBM Corporation
+java.runtime.version=8.0.5.17 - pwa6480sr5fp17ifix-20180726_01(SR5 FP17+IJ08001)
+java.fullversion=8.0.5.17 - pwa6480sr5fp17ifix-20180726_01(SR5 FP17+IJ08001)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20180725_392885 (JIT enabled, AOT enabled)
+OpenJ9   - a8cda37
+OMR      - 4d1cb10
+IBM      - 21870d6
+user.dir=C:\Users\595M\Documents\workspace-sts-3.9.8.RELEASE\quiz
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
